@@ -60,3 +60,10 @@ El mapa de conocimiento se organiza mediante **tres grupos categóricos primario
   * **Radiofrecuencia:** Transmisor RC, Receptor RC, ExpressLRS.
   * **Supervisión Terrestre:** Sistema de Telemetría, Estación de Control Terreno (GCS).
   * **Protocolos y Buses:** MAVLink, DShot600, PWM, UART, SPI e I2C.
+
+## Instrucciones de acceso al grafo en Obsidian
+Desde la opción "Administrar Bóvedas" abajo a la izquierda en Obsidian seleccionamos abrir una carpeta como Boveda. Al abrir la carpeta "Prueba" tendremos acceso al grafo.
+
+## 📊 Vista Previa del Grafo
+![image](<img width="1607" height="870" alt="Grafo" src="https://github.com/user-attachments/assets/09f3715d-9e36-49ad-b216-272c5566c71f" />
+)
