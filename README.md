@@ -65,5 +65,4 @@ El mapa de conocimiento se organiza mediante **tres grupos categóricos primario
 Desde la opción "Administrar Bóvedas" abajo a la izquierda en Obsidian seleccionamos abrir una carpeta como Boveda. Al abrir la carpeta "Prueba" tendremos acceso al grafo.
 
 ## 📊 Vista Previa del Grafo
-![image](<img width="1607" height="870" alt="Grafo" src="https://github.com/user-attachments/assets/09f3715d-9e36-49ad-b216-272c5566c71f" />
-)
+![Grafo](https://github.com/user-attachments/assets/09f3715d-9e36-49ad-b216-272c5566c71f)
