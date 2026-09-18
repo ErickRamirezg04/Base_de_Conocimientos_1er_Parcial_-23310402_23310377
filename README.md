@@ -8,7 +8,7 @@
 
 ## 📌 Información General
 
-* **Asignatura:** Prácticas WEBOTS (1er Parcial)
+* **Asignatura:** Sistemas Expertos (1er Parcial)
 * **Grado y Grupo:** 7° E
 
 ### 👥 Integrantes
