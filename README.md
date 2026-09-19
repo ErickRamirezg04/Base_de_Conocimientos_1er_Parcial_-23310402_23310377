@@ -61,6 +61,12 @@ El mapa de conocimiento se organiza mediante **tres grupos categóricos primario
   * **Supervisión Terrestre:** Sistema de Telemetría, Estación de Control Terreno (GCS).
   * **Protocolos y Buses:** MAVLink, DShot600, PWM, UART, SPI e I2C.
 
+## 🚀 Cómo visualizar la Bóveda y el Grafo en Obsidian
+
+Para poder explorar el grafo interactivo y la red ontológica de este proyecto, sigue estos sencillos pasos:
+
+### 1. Descargar el repositorio
+Haz clic en el botón verde **`Code`** (arriba a la derecha en GitHub) y selecciona **`Download ZIP`**. Descomprime el archivo `.zip` en tu computadora.
 ## Instrucciones de acceso al grafo en Obsidian
 Desde la opción "Administrar Bóvedas" abajo a la izquierda en Obsidian seleccionamos abrir una carpeta como Boveda. Al abrir la carpeta "Prueba" tendremos acceso al grafo.
 
